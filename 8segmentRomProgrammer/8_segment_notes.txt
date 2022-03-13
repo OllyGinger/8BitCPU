@@ -1,0 +1,40 @@
+
+    b
+    _
+a |   | c
+d   -
+e |   | f
+g   _ h .
+
+
+
+
+7 6 x 5 4
+  ____ 
+ |    |
+ |    |
+ |____|
+0 1 x 2 3
+
+
+0 = e
+1 = g
+2 = f
+3 = h
+4 = c
+5 = b
+6 = a
+7 = d
+
+
+
+0 = a b c e f g             77
+1 = c f                     14
+2 = b c d e g               b3
+3 = b c d f g               b6
+4 = a c d f                 d4
+5 = a b d f g               e6
+6 = a d e f g               c7
+7 = b c f                   34
+8 = a b c d e f g           f7
+9 = a b c d f               f4
